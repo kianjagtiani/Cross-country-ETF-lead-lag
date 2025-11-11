@@ -1,0 +1,6 @@
+Meeting 1
+- things to check out: how correlation changes based on the date range (like if covid affected strength of correlation or other world events)
+- specifically look at a particular asset/etf
+- check out shorter periods of time (not just a day)
+- tech sector
+- form some kind of macro hypothesis; it's expected that xx follows xx because xxx and yyy
