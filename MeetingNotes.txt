@@ -4,3 +4,15 @@ Meeting 1
 - check out shorter periods of time (not just a day)
 - tech sector
 - form some kind of macro hypothesis; it's expected that xx follows xx because xxx and yyy
+
+Meeting 2
+- a minute is pretty long, try to look into by the second or something more granular
+
+Meeting 3
+- try lag for milliseconds
+- try for shorter blocks of time
+
+Macro hypotheses:
+- Hypothesis 1: it's expected qqq follows spy since spy reflects broad-market shifts, which qqq then adjusts to
+- Hypothesis 2: xlk follows qqq because qqq contains mega-cap tech names w/ heavier weightings
+- Hypothesis 3: iwm follows spy, since small-caps are less liquid + incorporate info more slowly, while large-caps react faster to macro news
